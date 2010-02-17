@@ -4,6 +4,8 @@ from django.conf.urls.defaults import *
 # from django.contrib import admin
 # admin.autodiscover()
 
+# added a comment
+
 urlpatterns = patterns('',
     # Example:
     # (r'^needinternets/', include('needinternets.foo.urls')),
